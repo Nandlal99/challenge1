@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #d8ebe4;
+    text-align: center;
+}
+.main{
+    width: 200px;
+    height: 275px;
+    background:blue;
+    margin: 100px auto;
+    
+}
+.first{
+    width: 200px;
+    height: 100px;
+    background:#9fd8df;
+}
+.middle{
+    width: 200px;
+    height: 100px;
+    background:white;
+    
+}
+.bottom{
+    width: 200px;
+    height: 75px;
+    background:white;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+    top: 75px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+.middle-text{
+    position: relative;
+    top: 40px;
+}
+#h{
+    color: gray;
+    font-weight: lighter;
+}
+.follower{
+    position: relative;
+    left: -10px;
+    font-weight: lighter;
+    color: gray;
+    top: 10px;
+}
+.photo{
+    position: relative;
+    right: -10px;
+    font-weight: lighter;
+    color: gray;
+    top: 10px;
+}
+.like{
+    position: relative;
+    left: -5px;
+    font-weight: lighter;
+    color: gray;
+    top: 10px;
+}
+.item{
+    word-spacing: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+   
